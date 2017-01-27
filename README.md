@@ -1,5 +1,6 @@
 # ShinyAppRenalFunctionEstimation
 The app estimates the renal function as creatinine clearance or the estimated glomerular filtration rate based on the Cock-Gault and MDRD equations respectively.
+
 The Cockcroft Gault equation is<br>
 CrCl= [(140-Age)*Weight/(72*Scr)]*(0.85 if female)<br>
     where <br>
@@ -7,6 +8,7 @@ CrCl= [(140-Age)*Weight/(72*Scr)]*(0.85 if female)<br>
     Age: age in years <br>
     Weight: weight in kg <br>
     Scr: serum creatinine in mg/dL<br>
+
 The MDRD equation is <br>
      eGFR= 175*(Scr)^-1.154 * (Age)^-0.203 * (0.742 if female)* (1.212 if African American) <br>
      where <br>
