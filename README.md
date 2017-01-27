@@ -32,3 +32,6 @@ The MDRD equation is <br>
     2) a figure with an arrow showing your renal function category. 
     
 The R codes for the ui.R and server.R are stored in the same Github repository at https://github.com/aamrite/ShinyAppRenalFunctionEstimation
+
+The app is hosted at 
+https://aamrite.shinyapps.io/EstimateRenalFunction/
