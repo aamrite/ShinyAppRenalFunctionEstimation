@@ -15,7 +15,7 @@ The MDRD equation is
      Scr: serum creatinine in mg/DL
      
    The renal function is categorized into 5 categories based on the creatinine clearance or eGFR
-   >=90 Normal Renal Function
+   GT or equal to 90 Normal Renal Function
    60 to 89.9 Mild Renal Function Impairment
    30 to 59.9 Moderate Renal Function Impairment
    15 to 29.9 Severe Renal Function Impairment
@@ -29,4 +29,4 @@ The MDRD equation is
     1) a numeric value of your estimated GFR or creatinine clearance (depending on whether you selected MDRD or CG method)
     2) a figure with an arrow showing your renal function category. 
     
-    The R codes for the ui.R and server.R are stored in the same Github repository at 
+The R codes for the ui.R and server.R are stored in the same Github repository at https://github.com/aamrite/ShinyAppRenalFunctionEstimation
