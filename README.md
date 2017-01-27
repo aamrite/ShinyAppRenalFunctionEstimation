@@ -15,11 +15,11 @@ The MDRD equation is
      Scr: serum creatinine in mg/DL
      
    The renal function is categorized into 5 categories based on the creatinine clearance or eGFR
-   GT or equal to 90 Normal Renal Function
-   60 to 89.9 Mild Renal Function Impairment
-   30 to 59.9 Moderate Renal Function Impairment
-   15 to 29.9 Severe Renal Function Impairment
-   less than 15 End Stage Renal Disease
+   1) Greater than or equal to 90:  Normal Renal Function
+   2) 60 to 89.9: Mild Renal Function Impairment
+   3) 30 to 59.9: Moderate Renal Function Impairment
+   4) 15 to 29.9: Severe Renal Function Impairment
+   5) Less than 15: End Stage Renal Disease
    
    The App has a radio-button to choose the method of estimation and drop down menus to select your gender and race.
    There are sliders in the app to input your age, weight, and creatinine clearance. 
