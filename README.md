@@ -14,7 +14,7 @@ The MDRD equation is <br>
      where <br>
      eGFR: estimated glomerular filtration rate <br>
      Age: age in years <br>
-     Scr: serum creatinine in mg/DL<br>
+     Scr: serum creatinine in mg/dL<br>
      
    The renal function is categorized into 5 categories based on the creatinine clearance or eGFR<br>
    1) Greater than or equal to 90:  Normal Renal Function <br>
